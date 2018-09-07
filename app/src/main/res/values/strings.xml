@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+
+    <!-- Strings related to login -->
+    <string name="user_name">User Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login </string>
+    <string name="register">Register </string>
+    <string name="verify">Verify </string>
+    <string name="resend_otp"> Resend OTP </string>
+    <string name="resend_otp_msg"> Didn´t recieve OTP? TRY  </string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="new_user">New user ? </string>
+    <string name="terms_condition">Terms and conditions </string>
+    <string name="verify_number">Verify Mobile Number </string>
+    <string name="sent_number_msg">OTP has been sent to you on your mobile number.</string>
+
+</resources>
